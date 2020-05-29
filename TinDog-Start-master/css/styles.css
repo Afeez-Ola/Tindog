@@ -127,6 +127,10 @@ h3{
     text-align: center;
 }
 
+.nav-item{
+    cursor: pointer;
+}
+
 .navbar-brand{
     font-size: 32px;
     font-weight: 700;
